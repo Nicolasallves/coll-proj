@@ -7,7 +7,7 @@ class Main:
         Class with responsability to execute Collateral Calculations.
 
         Author: 
-            Eduardo Caversan
+            Nicolas Alves
 
             Since:
                 2021-03
