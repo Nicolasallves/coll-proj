@@ -13,10 +13,10 @@ class Service:
     """
         Class with responsability to calculation.
         Author: 
-            Daniel Ferreira Souza
-            Renato Saraiva Angeline
+              Daniel Ferreira 
+              Eduardo Caversan
         Updates:
-            Eduardo Caversan
+            Nicolas Alves 
             Since:
                 2020-12
     """
